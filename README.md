@@ -1,2 +1,1 @@
-# hello-world
-Mon premier Répositoire; un essai pour comprendre l'utilisation de Github
+J'apprends le coding, seule, depuis chez moi. J'espère bientôt savoir ce que je fais, avec de nombreux camarades codeurs, sur différents réseaux sociaux en ligne.
